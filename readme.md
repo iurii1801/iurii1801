@@ -1,43 +1,57 @@
-# Приветствие
+# 👋 Hi there
 
-Привет! Меня зовут Богданов Юрий, и я - студент Государственного Университета Молдовы, факультет Математики и Информатики, департамент Информатики.
+My name is **Iurii Bogdanov**, I’m a student at **Moldova State University**, Faculty of Mathematics and Computer Science, Department of Informatics.
 
-### Фотография / аватар
+---
 
-![Мой аватар](images/avatar.jpg)  
+### 📸 Avatar
 
-### Краткое описание себя
+![My Avatar](images/avatar.jpg)  
 
-Мне 20 лет,я с города Твардица, мне нравится футбол, особенно у меня особенная симпатия к клубу Реал Мадрид с детства, люблю также компьютерные игры.
+---
 
-Иногда, в свободное время, увлекаюсь игрой в шахматы и шашки. 
+### 🚀 About Me
 
-Я думаю, что я дружелюбный, любознательный, общительный и иногда стеснительный.
+I’m 20 years old and from the town of Tvardita.  
+Outside of coding, I’m a big football fan (a Real Madrid supporter since childhood ⚪️✨).  
+I also enjoy video games, chess, and checkers in my free time.  
 
-### Области интересов
+People often describe me as **friendly, curious, sociable**, and sometimes a bit **shy**.
 
-- футбол
-- вождение машины
-- программирование
+---
 
-### Языки программирования
+### 🎯 Interests
 
-- Я знаю (в некоторой степени):
-  - Python
-  - C++
+- ⚽ Football  
+- 🚗 Driving  
+- 💻 Programming  
 
-- Я изучаю:
-  - PHP
-  - Java
+---
 
-- Я хочу изучить:
-  - В лучшей степени выучить:
-    - Java
-    - PHP
+### 🧑‍💻 Programming Languages by Level
 
-### Как со мной связаться
+- 🚀 **Above Average**:  
+  - Java  
 
-- **Email**: iurcikbogdanov18@gmail.com
-- **GitHub**: [iurii1801](https://github.com/iurii1801)
-- **Telegram**: [ТГ](https://t.me/bogdanov_18i)
-- **Instagram**: [instagram](https://www.instagram.com/bogdanov_18_/)  
+- ⚖️ **Intermediate**:  
+  - C++  
+
+- 📚 **Basic Knowledge**:  
+  - JavaScript, PHP, Python  
+
+- 🛠 **Familiar with**:  
+  - HTML, CSS, JSON, Docker, AWS (Amazon)  
+  - Databases: Oracle APEX, MS SQL, PostgreSQL, MySQL (basic)  
+
+---
+
+### 📬 How to Reach Me
+
+- **Email**: [iurcikbogdanov18@gmail.com](mailto:iurcikbogdanov18@gmail.com)  
+- **GitHub**: [iurii1801](https://github.com/iurii1801)  
+- **Telegram**: [@bogdanov_18i](https://t.me/bogdanov_18i)  
+- **Instagram**: [@bogdanov_18_](https://www.instagram.com/bogdanov_18_/)
+
+---
+
+> ⚡ Fun fact: I believe that writing clean code is like playing chess – it’s all about strategy, foresight, and thinking a few steps ahead.
