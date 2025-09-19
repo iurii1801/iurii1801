@@ -17,6 +17,7 @@ Outside of coding, I’m a big football fan (a Real Madrid supporter since child
 I also enjoy video games, chess, and checkers in my free time.  
 
 People often describe me as **friendly, curious, sociable**, and sometimes a bit **shy**.
+I like to challenge myself with new technologies and improve my problem-solving skills.  
 
 ---
 
@@ -41,7 +42,7 @@ People often describe me as **friendly, curious, sociable**, and sometimes a bit
 
 - 🛠 **Familiar with**:  
   - HTML, CSS, JSON, Docker, AWS (Amazon)  
-  - Databases: Oracle APEX, MS SQL, PostgreSQL, MySQL (basic)  
+  - Databases: Oracle APEX, MS SQL, PostgreSQL, MySQL   
 
 ---
 
