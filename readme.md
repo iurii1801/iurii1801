@@ -4,7 +4,7 @@ My name is **Iurii Bogdanov**, I’m a student at **Moldova State University**, 
 
 ---
 
-### 📸 Avatar
+## 📸 Avatar
 
 ![My Avatar](images/avatar.jpg)  
 
@@ -21,7 +21,7 @@ I like to challenge myself with new technologies and improve my problem-solving 
 
 ---
 
-### 🎯 Interests
+## 🎯 Interests
 
 - ⚽ Football  
 - 🚗 Driving  
@@ -29,24 +29,24 @@ I like to challenge myself with new technologies and improve my problem-solving 
 
 ---
 
-### 🧑‍💻 Programming Languages by Level
+## 🧑‍💻 Programming Skills  
 
-- 🚀 **Above Average**:  
-  - Java  
+**💬 Languages:**  
+Java, C++, Python, C# *(learning)*, PHP *(basic)*  
 
-- ⚖️ **Intermediate**:  
-  - C++  
+**🌐 Web Development:**  
+HTML, CSS, JavaScript *(basics)*  
 
-- 📚 **Basic Knowledge**:  
-  - JavaScript, PHP, Python  
+**🗄️ Databases:**  
+Oracle SQL, MS SQL, PostgreSQL, MySQL  
 
-- 🛠 **Familiar with**:  
-  - HTML, CSS, JSON, Docker, AWS (Amazon)  
-  - Databases: Oracle APEX, MS SQL, PostgreSQL, MySQL   
+**⚙️ Tools & Frameworks:**  
+IntelliJ IDEA, VS Code, Docker, AWS *(learning)*, JDBC, Spring Boot *(learning)*, Git & GitHub  
+
 
 ---
 
-### 📬 How to Reach Me
+## 📬 How to Reach Me
 
 - **Email**: [iurcikbogdanov18@gmail.com](mailto:iurcikbogdanov18@gmail.com)  
 - **GitHub**: [iurii1801](https://github.com/iurii1801)  
