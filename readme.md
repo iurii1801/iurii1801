@@ -39,7 +39,7 @@ Oracle SQL, MS SQL, PostgreSQL, MySQL
 **⚙️ Tools & Frameworks:**  
 IntelliJ IDEA, VS Code, Docker, AWS *(learning)*, JDBC, Spring Boot *(learning)*, Git & GitHub  
 
-![Most Used Languages](https://raw.githubusercontent.com/iurii1801/iurii1801/main/profile-summary-card-output/tokyonight/2-most-used-language.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iurii1801&langs_count=10&layout=compact&theme=tokyonight)
 
 ---
 
