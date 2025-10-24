@@ -39,7 +39,7 @@ Oracle SQL, MS SQL, PostgreSQL, MySQL
 **⚙️ Tools & Frameworks:**  
 IntelliJ IDEA, VS Code, Docker, AWS *(learning)*, JDBC, Spring Boot *(learning)*, Git & GitHub  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iurii1801&langs_count=10&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iurii1801&layout=compact)
 
 ---
 
