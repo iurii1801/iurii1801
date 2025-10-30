@@ -41,6 +41,10 @@ IntelliJ IDEA, VS Code, Docker, AWS *(learning)*, JDBC, Spring Boot *(learning)*
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iurii1801&langs_count=10&layout=compact&theme=tokyonight)
+
+---
+
 ## 📬 How to Reach Me
 - **Email:** [iurcikbogdanov18@gmail.com](mailto:iurcikbogdanov18@gmail.com)  
 - **GitHub:** [iurii1801](https://github.com/iurii1801)  
