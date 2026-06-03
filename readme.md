@@ -50,5 +50,3 @@ IntelliJ IDEA, VS Code, Docker, AWS *(learning)*, JDBC, Spring Boot *(learning)*
 ---
 
 > ⚡ *I believe that writing clean code is like playing chess – it’s all about strategy, foresight, and thinking a few steps ahead.*
-
-<img src="https://komarev.com/ghpvc/?username=iurii1801&color=58a6ff&style=flat-square&label=Profile+Views"/>
